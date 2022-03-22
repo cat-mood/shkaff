@@ -4188,7 +4188,7 @@ textarea:focus {
 .mobile-logo a img{
   width: 60%;
   height: 60%;
-  margin: 7px;
+  margin: 13px;
 }
 
 .social-offer-wrap {
@@ -7908,6 +7908,14 @@ textarea:focus {
   margin: 23px 0 51px;
   width: 93%;
 }
+
+.about-us-logo img{
+  max-width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .about-us-content p {
